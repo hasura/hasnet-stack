@@ -1,14 +1,15 @@
 {
-  "name": "hasnet-stack",
+  "name": "hasnet",
   "version": "0.1.0",
-  "description": "Opinionated project starter kit to ship from day one",
-  "workspaces": [
-    "packages/*"
-  ],
+  "description": "CLI for the HasNeT stack",
   "scripts": {},
+  "bin": {
+    "hasnet": "./index.js"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hasura/hasnet-stack.git"
+    "url": "git+https://github.com/hasura/hasnet-stack.git",
+    "directory": "packages/hasnet"
   },
   "keywords": [
     "hasura",
