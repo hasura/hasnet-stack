@@ -1,0 +1,25 @@
+{
+  "name": "hasnet-stack",
+  "version": "0.1.0",
+  "description": "Opinionated project starter kit to ship from day one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasura/hasnet-stack.git"
+  },
+  "keywords": [
+    "hasura",
+    "nextjs",
+    "tailwind",
+    "starter-project"
+  ],
+  "author": "vishnu@hasura.io",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hasura/hasnet-stack/issues"
+  },
+  "homepage": "https://github.com/hasura/hasnet-stack#readme"
+}
