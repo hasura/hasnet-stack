@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/hasura/hasnet-stack/issues"
   },
-  "homepage": "https://github.com/hasura/hasnet-stack#readme"
+  "homepage": "https://github.com/hasura/hasnet-stack#readme",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
 }
